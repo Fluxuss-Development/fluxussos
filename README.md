@@ -23,7 +23,7 @@ Dual core processor of 2 GHz or higher.
 A DVD drive or USB port that Ubuntu 18.04 LTS can be installed on.  
 Internet access is important.  
 
-[![alt text](https://i.imgur.com/dqlx9xz.png)](https://www.dropbox.com/s/mxsd5kicl6z80bm/FluxussOS_Doki_v1.05Dev.iso?dl=1 "ISO From 1.05DOKI")
+[![alt text](https://i.imgur.com/dqlx9xz.png)](https://www.dropbox.com/s/mxsd5kicl6z80bm/FluxussOS_Doki_v1.05Dev.iso?dl=1 "ISO From 1.05DOKI")  
 Download from Dropbox(Good Location Server)
 
 
